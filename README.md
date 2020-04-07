@@ -5,5 +5,5 @@
 >> g++ [filename.cpp] -o [executable_name]
 
 1. Learning OOP Concepts
-	1. A *struct* can *only define a different variables*, but a *class* can *define different variables and declare functions too*
+	1. A **struct** can **only define a different variables**, but a **class** can **define different variables and declare functions too**
 
