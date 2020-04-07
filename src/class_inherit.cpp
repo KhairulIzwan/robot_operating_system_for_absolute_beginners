@@ -1,11 +1,14 @@
 #include <iostream> 
-// input/output functions, such as taking input from a keyboard or printing a message
+/* input/output functions, such as taking input from a keyboard or printing a 
+message */
 
 #include <string>
 
 using namespace std; 
-// can access the functions or other entities included in the std namespace, such as functions like cout and cin
-// If we are not using this line of code, you have to mention std:: for accessing functions inside that namespace; for example, std::cout is a function to print a message
+/* can access the functions or other entities included in the std namespace, 
+such as functions like cout and cin. If we are not using this line of code, you 
+have to mention std:: for accessing functions inside that namespace; for 
+example, std::cout is a function to print a message */
 
 class Robot_Class
 {

@@ -43,9 +43,11 @@ int main()
 	robot_2.id = 3;
 	robot_2.robot_name = "Humanoid robot";
 
-	cout << "ID: "<< robot_1.id << "\t" << "Robot" << "\t"<<"Name: " << robot_1.robot_name << endl;
+	cout << "ID: "<< robot_1.id << "\t" << "Robot" << "\t"<<"Name: " << 
+	robot_1.robot_name << endl;
 
-	cout << "ID: "<< robot_2.id << "\t" << "Robot" << "\t"<<"Name: " << robot_2.robot_name << endl;
+	cout << "ID: "<< robot_2.id << "\t" << "Robot" << "\t"<<"Name: " << 
+	robot_2.robot_name << endl;
 
 	robot_2.move_robot();
 	robot_2.stop_robot();
