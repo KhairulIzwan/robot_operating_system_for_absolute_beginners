@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Hello Ubuntu Linux"<<endl;
+	cout << "Hello Ubuntu Linux" << endl;
 
 	return 0;
 }

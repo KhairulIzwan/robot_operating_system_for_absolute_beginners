@@ -9,7 +9,7 @@ int main()
 
 	int sum = num_1 + num_2;
 
-	cout<<"Hello Ubuntu Linux"<<endl;
+	cout << "Sum: "<< sum << endl;
 
 	return 0;
 }
